@@ -1,0 +1,12 @@
+devjoyboy jalur belajar web developer
+#pre requisite
+-belajar bahasa inggris
+-GIT- VERSION CONTROL
+-Basik Terminal Usage
+-Data Struktur dan algoritma
+-desain pattern GIT-HUB
+-LICENSES
+-Semantic versioning
+-ssh 
+-http/https dan APIS
+Character Encoding
